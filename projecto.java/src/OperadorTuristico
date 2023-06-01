@@ -1,0 +1,18 @@
+public class {
+
+// Asignacion de atributos
+
+    public Int IdUsuarioOperador;
+
+// asignacion de metodos
+
+    public void AgregarServicioProducto(){
+    }
+    public void EditarServicioProducto(){
+    }
+    public void ReporteCompras(){
+    }
+    public void ServicioPorductAgregados(){
+    }
+
+}

@@ -1,0 +1,32 @@
+public class administrador {
+
+// Asignacion de atributos
+
+ public Int IdUsuarioAdmin;
+ public String GestionUsuario;
+ public String GestionRuta;
+ public String GestionSitio;
+
+// asignacion de metodos
+
+ public void CrearUsuario(){
+ }
+ private void VerUsuario(){
+ }
+ private void EliminarUsuario(){
+ }
+ private void CrearRuta(){
+ }
+ private void EliminarRuta(){
+ }
+ private void ActuzalizarRuta(){
+ }
+ private void CrearSitio(){
+ }
+ private void Versitio(){
+ }
+ private void EliminarSitio(){
+ }
+ private void ActualizarSitio(){
+ }
+}
