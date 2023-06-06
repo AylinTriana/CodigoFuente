@@ -1,0 +1,19 @@
+public class Usuario {
+    
+// Asignacion de atributos
+
+  public int idUsuarioTurist;
+  public int carritoCompra;
+
+// Asignacion de metodos
+
+  public void consultarSitios() {
+  }
+  public void historialCompras() {
+  }
+  public void realizarPago() {
+  }
+  public void calificar() {
+  }
+
+}

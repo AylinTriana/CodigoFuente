@@ -1,6 +1,7 @@
 public class Usuario {
     
-// Asigancion de atributos
+// Asignacion de atributos
+
     public Int id;
     public String nombre;
     public String apellido;
@@ -18,7 +19,7 @@ public Usuario(String nombre, String apellido, String contraseña, String email,
     this.telefono = telefono; 
 }
 
-// asignacion de metodos
+// Asignacion de metodos
 
     public Int registrarse() {
         return id; 
